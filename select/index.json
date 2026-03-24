@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "base_track": "TOMBI",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2026-03-24T08:18:16.699084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tombi",
+      "artist": "Macaroom",
+      "has_synced": true,
+      "path": "select/01_Tombi_Macaroom.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tombi",
+      "artist": "Panjabi MC",
+      "has_synced": false,
+      "path": "select/02_Tombi_Panjabi_MC.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TOMBI",
+      "artist": "Kvi Baba",
+      "has_synced": true,
+      "path": "select/03_TOMBI_Kvi_Baba.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tombi",
+      "artist": "Panjabi MC & Master Saleem",
+      "has_synced": false,
+      "path": "select/04_Tombi_Panjabi_MC_&_Master_Saleem.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TOMBI (from \"Trigun Stampede\")",
+      "artist": "Dima Lancaster",
+      "has_synced": true,
+      "path": "select/05_TOMBI_(from__Trigun_Stampede_)_Dima_Lancaster.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TOMBI (Instrumental)",
+      "artist": "Kvi Baba",
+      "has_synced": true,
+      "path": "select/06_TOMBI_(Instrumental)_Kvi_Baba.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tombi (Feat. Master Saleem)",
+      "artist": "Panjabi MC",
+      "has_synced": false,
+      "path": "select/07_Tombi_(Feat._Master_Saleem)_Panjabi_MC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOMBI",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_01_TOMBI_Kvi_Baba.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "TOMBI",
+      "artist": "Kvi Baba",
+      "has_synced": true,
+      "path": "select/localdb_01_TOMBI_Kvi_Baba.lrc",
+      "repo_name": "-RQTxqPc5T0"
+    }
+  ]
+}
